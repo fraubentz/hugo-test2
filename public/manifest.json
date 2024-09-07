@@ -1,14 +1,14 @@
 {
   "name": "PY //frau.bentz",
   "short_name": "PY //frau.bentz",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/hugo-test2/",
+  "scope": "/hugo-test2/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/hugo-test2/favicon.svg",
       "sizes": "512x512"
     }
   ]
